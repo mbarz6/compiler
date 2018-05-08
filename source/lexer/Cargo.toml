@@ -1,0 +1,6 @@
+[package]
+name = "lexer"
+version = "0.1.0"
+authors = ["Michael Barz <mbarz6@gmail.com>"]
+
+[dependencies]
